@@ -1,0 +1,46 @@
+MIT License
+Copyright (c) [Orijinal Mod Yılı] [Orijinal Yazar Adı]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+ADDITIONAL TERMS AND RESTRICTIONS BY ENFLKY (For 1.21.1 Port & Modifications)
+Copyright (c) 2026 ENFLKY (Mythic Upgrades 1.21.1 Port)
+
+The 1.21.1 porting logic, specific Mixin implementations, and new features 
+added by Enflky are subject to the following additional terms:
+
+1. PROHIBITION OF STANDALONE REDISTRIBUTION: While the original code is MIT, 
+   this specific 1.21.1 compiled version (JAR) and its porting logic may not 
+   be re-uploaded as a standalone mod entry on any platform (CurseForge, 
+   Modrinth, etc.) without explicit permission from Emirh.
+
+2. MODPACK & CREDIT REQUIREMENT: You are allowed to include this 1.21.1 port 
+   in modpacks ONLY IF:
+   a) The modpack is hosted on CurseForge or Modrinth.
+   b) PROPER CREDIT IS GIVEN to Enflky (for the 1.21.1 port) and the original 
+      authors.
+
+3. DMCA ENFORCEMENT: Any unauthorized re-upload of this specific 1.21.1 
+   distribution that claims to be a new port or fails to provide credit 
+   will be subject to a DMCA takedown notice initiated by Emirh.
+
+4. NO MODIFICATION FOR REDISTRIBUTION: You may not modify Enflky's porting 
+   logic to create a competing 1.21.1 version and redistribute it without 
+   prior consent.
